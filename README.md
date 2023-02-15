@@ -6,7 +6,6 @@ This was an Academic Project completed in 3 months span from December to Februar
 - Used linear regression, moving average processes, ARMA processes, etc.
 
 ## Details of Contributors
-### Group - 4
 - Mihir Gupta
 - Ruturparn
 - Jai Verma
